@@ -2,7 +2,7 @@
 
 Repository behorende bij de ontwikkeling van een facultaire USO aanvraag in de ronde 2022. 
 
-De aanvraag kan [hier worden gedownload](https://github.com/gerkovink/FUSO2022/blob/main/Formulier%20voor%20aanvragen%20FSO%20projecten%2022-23.doc?raw=true)
+De aanvraag kan [hier worden gedownload](https://github.com/gerkovink/FUSO2022/blob/main/Formulier%20voor%20aanvragen%20FSO%20projecten%2022-23.doc?raw=true) en [hier worden bekeken](https://github.com/gerkovink/FUSO2022/blob/main/Formulier%20voor%20aanvragen%20FSO%20projecten%2022-23.pdf)
 
 
 ## Links
